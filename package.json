@@ -5,6 +5,7 @@
     "build": "babel src -d lib"
   },
   "devDependencies": {
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^1.6.3",
+    "xmlhttprequest": "^1.8.0"
   }
 }
