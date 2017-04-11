@@ -1,0 +1,10 @@
+{
+  "name": "ES6_Learning",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
