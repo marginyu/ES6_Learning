@@ -57,3 +57,5 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch 使用fet
 fetch 与 xmlhttprequest的区别  https://github.com/camsong/blog/issues/2
 
 父子promise
+
+一句话，async 函数就是 Generator 函数的语法糖。
